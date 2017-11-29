@@ -11,4 +11,4 @@ This is a collection of mods that I have been using for a while now. I have done
 #### Preview video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-HaG9ZWmDag
 " target="_blank"><img src="http://img.youtube.com/vi/-HaG9ZWmDag/0.jpg" 
-alt="Click to watch preview video" width="450" height="800" border="10" /></a>
+alt="Click to watch preview video" width="800" height="450" border="10" /></a>
