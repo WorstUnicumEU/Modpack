@@ -10,5 +10,5 @@ This is a collection of mods that I have been using for a while now. I have done
 * Detailed Session Statistics (by me & PMOD)<br/>
 #### Preview video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-HaG9ZWmDag
-" target="_blank"><img src="http://img.youtube.com/vi/-HaG9ZWmDag/0.jpg" 
+" target="_blank"><img src="https://i.ytimg.com/vi/-HaG9ZWmDag/maxresdefault.jpg" 
 alt="Click to watch preview video" width="800" height="450" border="10" /></a>
